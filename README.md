@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/mohammed28ali" target="blank"><img src="https://img.shields.io/twitter/follow/mohammed28ali?logo=twitter&style=for-the-badge" alt="mohammed28ali" /></a> </p>
 
+- 📫 How to reach me **mohammedali200028@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mohammed28ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohammed28ali" height="30" width="40" /></a>
