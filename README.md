@@ -17,7 +17,7 @@ I specialize in:
 - 🚄 **Performance Optimization** (improved app speed by 70%)  
 - 💳 **Payment Integrations** (Stripe, PayPal, Paymob, STC Pay)  
 - 🤖 **Native Android (Java/Kotlin) + Platform Channels**  
-- 🔥 **Firebase Ecosystem** (Firestore, Cloud Functions, FCM, Remote Config)  
+- 🔥 **Firebase Ecosystem**  
 - 🚀 **CI/CD Automation** (GitHub Actions, Fastlane, CodeMagic)
 
 ---
@@ -28,14 +28,15 @@ I specialize in:
 
 ### 🌐 Connect with me:
 <p>
-<a href="https://twitter.com/mohammed28ali" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohammed28ali" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohammed28ali" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
 </p>
 
 ---
 
 ## 🛠️ Languages & Tools  
-[![My Skills](https://skillicons.dev/icons?i=kotlin,dart,flutter,unity,git,githubactions,idea,java,firebase,postman,stackoverflow,notion,xd,webstorm,swift,vscode,figma,androidstudio,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,dart,flutter,unity,git,githubactions,idea,java,firebase,postman,stackoverflow,notion,xd,vscode,figma,androidstudio,sqlite)](https://skillicons.dev)
 
 ---
 
@@ -44,26 +45,26 @@ I specialize in:
 ### **Flutter Developer – Innov8 Information Technology**  
 📍 *Alexandria, Egypt* — **Dec 2024 – Present**
 
-- Refactored entire codebase using **Clean Architecture**, improving performance by **70%**  
-- Created **native Android Java modules** for POS terminals (payment, printing)  
-- Implemented **CI/CD pipelines** (GitHub Actions + Xcode Cloud)  
+- Refactored the codebase using **Clean Architecture**, improving performance by **70%**  
+- Developed **native Android Java modules** for POS terminals  
+- Implemented CI/CD pipelines  
 - Built ERP, HR, Donation & SaaS platforms serving **1000+ users**  
-- Collaborated with 5+ backend engineers to design robust REST APIs  
+- Worked with backend teams to design scalable APIs  
 
 ### **Flutter Developer – StackDeans**  
 📍 *Alexandria, Egypt* — **Oct 2023 – Nov 2024**
 
-- Delivered **5+ production apps** (NFC, ERP, logistics, fitness, e-commerce…)  
-- Reduced server response times by **50%**, increasing retention by **25%**  
-- Integrated **Stripe/PayPal/Paymob/STC Pay**  
-- Automated releases using **CodeMagic, GitHub Actions, Fastlane**  
-- Integrated **TensorFlow Lite** & ML Kit for receipt text detection  
+- Delivered **5+ production apps** across various industries  
+- Reduced backend response time by **50%**, boosting retention by **25%**  
+- Integrated **Stripe, PayPal, Paymob, STC Pay**  
+- Automated releases with CodeMagic, GitHub Actions, Fastlane  
+- Implemented ML with TensorFlow Lite & ML Kit  
 
 ---
 
 ## 🎓 Education  
 **B.Sc. Computer Science — Damietta University (2019–2023)**  
-**Graduation Project: Fiction AR** – AR app with ML object detection & 3D overlays.
+Graduation Project: **Fiction AR** (AR + ML real-time detection + 3D overlays)
 
 ---
 
@@ -73,33 +74,32 @@ I specialize in:
 - **State Management:** BLoC, Provider, GetX  
 - **Databases:** Firebase, SQLite, Hive, SQL Server  
 - **Tools:** Git, Postman, Firebase, Fastlane, CI/CD, Flavors  
-- **Core Concepts:** OOP, SOLID, Clean Architecture, DI, Design Patterns  
+- **Core Concepts:** OOP, SOLID, Clean Architecture, DI  
 
 ---
 
 ## ⭐ Featured Projects
 
-### **Tapyo** – NFC Contact Sharing  
-🚀 *Available on Apple Store & Google Play*  
-- Built using BLoC + Platform Channels  
-- Native NFC integration  
-- A/B testing using Firebase Remote Config (**+20% onboarding improvement**)  
+### **Tapyo — NFC Contact Sharing App**  
+- Native NFC integration using Platform Channels  
+- Firebase Remote Config → +20% onboarding rate  
+- Published on both stores  
 
-### **Fit Bird UAE** – Fitness App  
-- Offline-first architecture using Hive  
-- Replay BLoC for workout planning  
-- **99.7% crash-free rate** & **90% test coverage**
+### **Fit Bird UAE — Fitness Tracking App**  
+- Offline-first using Hive  
+- Replay BLoC for workouts  
+- **99.7% crash-free** + **90% test coverage**
 
-### **Wasil IQ** – Delivery & Logistics App  
-- Live order tracking with Maps, geofencing & custom markers  
+### **Wasil IQ — Delivery App**  
+- Real-time tracking with Maps & geofencing  
 - Offline sync with SQLite  
-- Clean Architecture + DI + Repository Pattern  
+- Clean Architecture + DI + repositories  
 
 ---
 
 ## 🏆 Achievements  
-- **ECPC Competitive Programmer** — Advanced to ECBC Stage  
-- **Top 10 Project** in Mansoura Annual Business Challenge (Covid-19 Hunter App)
+- **ECPC Competitive Programmer** (reached ECBC stage)  
+- **Top 10 Project** — Covid-19 Hunter App (Annual Business Challenge)
 
 ---
 
