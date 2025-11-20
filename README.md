@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me  
-Flutter Developer with **2+ years of experience** building scalable, high-performance mobile apps serving **100K+ users** across **10+ production apps**.
+Flutter Developer with **2+ years of experience** building scalable, high-performance apps serving **100K+ users** across **10+ production apps**.
 
 I specialize in:
 
@@ -23,28 +23,19 @@ I specialize in:
 ---
 
 ## 📫 Contact Me  
-**Email:** mohammedali200028@gmail.com  
-**Phone:** +20 102 334 2670  
+📧 **Email:** mohammedali200028@gmail.com  
+📱 **Phone:** +20 102 334 2670  
 
 ### 🌐 Connect with me:
-<p align="left">
-<a href="https://twitter.com/mohammed28ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohammed28ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<p>
+<a href="https://twitter.com/mohammed28ali" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohammed28ali" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 </p>
 
 ---
 
 ## 🛠️ Languages & Tools  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=kotlin,dart,flutter,unity,git,githubactions,idea,java,firebase,postman,stackoverflow,notion,xd,webstorm,swift,vscode,figma,androidstudio,sqlite)](https://skillicons.dev)
 
 ---
 
@@ -55,8 +46,8 @@ I specialize in:
 
 - Refactored entire codebase using **Clean Architecture**, improving performance by **70%**  
 - Created **native Android Java modules** for POS terminals (payment, printing)  
-- Implemented **CI/CD pipelines** (GitHub Actions + Xcode Cloud) reducing deployment time  
-- Built ERP, HR, Donation & SaaS platforms serving **1000+ active users**  
+- Implemented **CI/CD pipelines** (GitHub Actions + Xcode Cloud)  
+- Built ERP, HR, Donation & SaaS platforms serving **1000+ users**  
 - Collaborated with 5+ backend engineers to design robust REST APIs  
 
 ### **Flutter Developer – StackDeans**  
@@ -72,7 +63,7 @@ I specialize in:
 
 ## 🎓 Education  
 **B.Sc. Computer Science — Damietta University (2019–2023)**  
-Graduation Project: **Fiction AR** – AR app with ML object detection & 3D overlays.
+**Graduation Project: Fiction AR** – AR app with ML object detection & 3D overlays.
 
 ---
 
@@ -92,35 +83,35 @@ Graduation Project: **Fiction AR** – AR app with ML object detection & 3D over
 🚀 *Available on Apple Store & Google Play*  
 - Built using BLoC + Platform Channels  
 - Native NFC integration  
-- A/B testing using Firebase Remote Config (boosted onboarding by 20%)
+- A/B testing using Firebase Remote Config (**+20% onboarding improvement**)  
 
 ### **Fit Bird UAE** – Fitness App  
 - Offline-first architecture using Hive  
 - Replay BLoC for workout planning  
-- **99.7% crash-free rate** and **90% test coverage**
+- **99.7% crash-free rate** & **90% test coverage**
 
 ### **Wasil IQ** – Delivery & Logistics App  
-- Live order tracking using Google Maps, geofencing & custom markers  
-- Offline-first sync with SQLite  
-- Clean Architecture + DI + repository pattern  
+- Live order tracking with Maps, geofencing & custom markers  
+- Offline sync with SQLite  
+- Clean Architecture + DI + Repository Pattern  
 
 ---
 
 ## 🏆 Achievements  
-- **ECPC Competitive Programmer** – Advanced to final ECBC stage  
-- **Top 10 Project** in Annual Business Challenge (Covid-19 Hunter App)
+- **ECPC Competitive Programmer** — Advanced to ECBC Stage  
+- **Top 10 Project** in Mansoura Annual Business Challenge (Covid-19 Hunter App)
 
 ---
 
 ## 📊 GitHub Stats  
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed28ali&show_icons=true&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed28ali&show_icons=true&layout=compact" height="160" />
 </p>
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammed28ali&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=mohammed28ali&show_icons=true" height="160" />
 </p>
 
 <p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed28ali" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed28ali" height="160" />
 </p>
