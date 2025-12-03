@@ -24,7 +24,6 @@ I specialize in:
 
 ## 📫 Contact Me  
 📧 **Email:** mohammedali200028@gmail.com  
-📱 **Phone:** +20 102 334 2670  
 
 ### 🌐 Connect with me:
 <p>
