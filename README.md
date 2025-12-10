@@ -100,17 +100,4 @@ Graduation Project: **Fiction AR** (AR + ML real-time detection + 3D overlays)
 - **ECPC Competitive Programmer** (reached ECBC stage)  
 - **Top 10 Project** — Covid-19 Hunter App (Annual Business Challenge)
 
----
 
-## 📊 GitHub Stats  
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed28ali&show_icons=true&layout=compact" height="160" />
-</p>
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=mohammed28ali&show_icons=true" height="160" />
-</p>
-
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed28ali" height="160" />
-</p>
