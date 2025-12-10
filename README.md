@@ -18,7 +18,7 @@ I specialize in:
 - 💳 **Payment Integrations** (Stripe, PayPal, Paymob, STC Pay)  
 - 🤖 **Native Android (Java/Kotlin) + Platform Channels**  
 - 🔥 **Firebase Ecosystem**  
-- 🚀 **CI/CD Automation** (GitHub Actions, Fastlane, CodeMagic)
+- 🚀 **CI/CD Automation** (GitHub Actions, Fastlane, Xcode Cloud, CodeMagic)
 
 ---
 
