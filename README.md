@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammed Ali</h1>
+<h1 align="center">Hi, I'm Mohammed Ali</h1>
 <h3 align="center">Flutter & Android Developer | Native Integrations • POS • Payments • Clean Architecture</h3>
 
 <p align="center">
