@@ -19,7 +19,6 @@
 - 📱 Flutter Developer at **Innov8 Information Technology**, building a multi-tenant SaaS + ERP platform (HR, CRM, Inventory, Engineering, Sales) used by 5+ enterprise clients
 - 🏗️ Specialize in **Clean Architecture + BLoC**, multi-flavor builds, native Android/iOS integrations, and CI/CD automation
 - 📊 Track record of measurable impact: **70% performance gains**, **50% faster server response**, **25% higher retention**, **70% faster release cycles**
-- 🏙️ Currently building **Maamourti**, a hyperlocal neighborhood directory app for Alexandria — Flutter + Supabase
 - 🎓 B.Sc. Computer Science, Damietta University — graduation project: *Fiction AR* (AR + ML object detection)
 - 📫 Reach me at **mohammedali200028@gmail.com**
 
@@ -76,22 +75,22 @@ Shipped 5+ production apps across NFC, ERP, logistics, fitness, and e-commerce; 
 
 | Project | Description |
 |---|---|
-| 📡 **Tapyo** | NFC-based digital business card app — BLoC + Platform Channels, contactless profile sharing, deep linking |
-| 💪 **Fit Bird** | Personalized fitness app (UAE) — adaptive training algorithm, offline-first with Hive, 99.7% crash-free |
-| 🚚 **Wasil IQ** | Logistics & shipping app for Iraq — real-time tracking, geofencing, offline-first sync, supports Apple Vision Pro |
-| 🗣️ **Maharat Tufl** | Arabic children's speech therapy app — RTL UI, image recognition → pronunciation → sentence flow |
-| 🏘️ **Maamourti** *(in progress)* | Hyperlocal neighborhood directory for Alexandria — Flutter + Supabase, geo & Arabic full-text search |
+| **Tapyo** | NFC-based digital business card app — BLoC + Platform Channels, contactless profile sharing, deep linking |
+| **Fit Bird** | Personalized fitness app (UAE) — adaptive training algorithm, offline-first with Hive, 99.7% crash-free |
+| **Wasil IQ** | Logistics & shipping app for Iraq — real-time tracking, geofencing, offline-first sync, supports Apple Vision Pro |
+| **Maharat Tufl** | Arabic children's speech therapy app — RTL UI, image recognition → pronunciation → sentence flow |
+| **Maamourti** *(in progress)* | Hyperlocal neighborhood directory for Alexandria — Flutter + Supabase, geo & Arabic full-text search |
 
 ### 📂 Open-Source Repos
 
 | Project | Description |
 |---|---|
-| 🩺 **i_medicine_box** | Open-source medicine reminder app for Android & iOS, built with Flutter |
-| 📖 **Hadith-App** | Hadith reading app built with Flutter |
-| 💳 **payment_integration** | App integrated with the Paymob payment gateway |
-| 🗑️ **city_waste_management** | Flutter app for managing city waste collection |
-| 🎓 **Fiction-AR** | Graduation project — AR + ML real-time object detection |
-| 🖥️ **Lab-Controller** | App to remotely control computers in a lab environment |
+| **i_medicine_box** | Open-source medicine reminder app for Android & iOS, built with Flutter |
+| **Hadith-App** | Hadith reading app built with Flutter |
+| **payment_integration** | App integrated with the Paymob payment gateway |
+| **city_waste_management** | Flutter app for managing city waste collection |
+| **Fiction-AR** | Graduation project — AR + ML real-time object detection |
+| **Lab-Controller** | App to remotely control computers in a lab environment |
 
 ---
 
