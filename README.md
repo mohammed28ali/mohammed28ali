@@ -34,11 +34,11 @@ Currently leading the architecture of a multi-tenant SaaS + ERP platform at **In
 
 | Category | Technologies |
 |:--|:--|
-| Core | Dart · Flutter · Kotlin · Python |
-| Architecture & State | Clean Architecture · BLoC · GetX · Provider |
-| Backend & Data | Firebase · Supabase · PostgreSQL · SQLite |
-| ML & Native | TensorFlow Lite · Google ML Kit · Android Native |
-| Delivery | Git · GitHub Actions · Fastlane · Jira |
+| Core | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| Architecture & State | ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-1B2A4A?style=flat-square) ![BLoC](https://img.shields.io/badge/BLoC-13B9FD?style=flat-square) ![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=flat-square) ![Provider](https://img.shields.io/badge/Provider-40C4FF?style=flat-square) |
+| Backend & Data | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+| ML & Native | ![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![ML Kit](https://img.shields.io/badge/Google%20ML%20Kit-4285F4?style=flat-square&logo=google&logoColor=white) ![Android Native](https://img.shields.io/badge/Android%20Native-3DDC84?style=flat-square&logo=android&logoColor=white) |
+| Delivery | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Fastlane](https://img.shields.io/badge/Fastlane-00C2CB?style=flat-square&logo=fastlane&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) |
 
 <br/>
 
