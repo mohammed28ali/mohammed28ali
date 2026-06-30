@@ -1,103 +1,80 @@
-<h1 align="center">Hi, I'm Mohammed Ali</h1>
-<h3 align="center">Flutter & Android Developer | Native Integrations • POS • Payments • Clean Architecture</h3>
+<h1 align="center">Hi there, I'm Mohammed Ali 👋</h1>
+<h3 align="center">Mobile App Developer (Flutter | Android) based in Alexandria, Egypt 🇪🇬</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammed28ali&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed28ali" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2B5BBD&center=true&vCenter=true&width=600&lines=Flutter+%7C+Dart+Developer;Building+mobile+apps+with+clean+architecture;BLoC+%2F+Cubit+%7C+Supabase+%7C+Firebase;Currently+building+Maamourti+%F0%9F%8C%86" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 About Me  
-Flutter Developer with **2+ years of experience** building scalable, high-performance apps serving **100K+ users** across **10+ production apps**.
+### 🚀 About Me
 
-I specialize in:
-
-- 🔌 **POS Terminal Integrations** (PAX, UART, NFC, receipt printing)  
-- ⚙️ **Clean Architecture & Modular Codebases**  
-- 🚄 **Performance Optimization** (improved app speed by 70%)  
-- 💳 **Payment Integrations** (Stripe, PayPal, Paymob, STC Pay)  
-- 🤖 **Native Android (Java/Kotlin) + Platform Channels**  
-- 🔥 **Firebase Ecosystem**  
-- 🚀 **CI/CD Automation** (GitHub Actions, Fastlane, Xcode Cloud, CodeMagic)
+- 📱 Mobile Developer specializing in **Flutter** & **Dart**, currently at **Innov8 Information Technology**
+- 🏙️ Building **Maamourti**, a hyperlocal neighborhood directory app for Alexandria, Egypt — powered by Flutter + Supabase
+- 💼 Experienced in building production CRM applications with rich dashboards, analytics, and lead management UIs
+- 🧱 I follow a consistent design-system approach in every app: typed models, reusable components, and BLoC/Cubit state management
+- 🌍 Passionate about building products that serve my local community
+- 📫 Reach me at **mohammedali200028@gmail.com**
 
 ---
 
-## 📫 Contact Me  
-📧 **Email:** mohammedali200028@gmail.com  
+### 🛠️ Tech Stack
 
-### 🌐 Connect with me:
-<p>
-<a href="https://linkedin.com/in/mohammed28ali" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
+**Languages & Frameworks**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+**Backend & Database**
+
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Tools & Practices**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![BLoC](https://img.shields.io/badge/State%20Mgmt-BLoC%2FCubit-13B9FD?style=for-the-badge)
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description |
+|---|---|
+| 🏘️ **Maamourti** | Hyperlocal neighborhood directory app for Alexandria — Flutter + Supabase, geo & Arabic full-text search |
+| 🩺 **i_medicine_box** | Open-source medicine reminder app for Android & iOS, built with Flutter |
+| 📖 **Hadith-App** | Hadith reading app built with Flutter |
+| 💳 **payment_integration** | App integrated with the Paymob payment gateway |
+| 🗑️ **city_waste_management** | Flutter app for managing city waste collection |
+| 🎓 **Fiction-AR** | Graduation project |
+| 🖥️ **Lab-Controller** | App to remotely control computers in a lab environment |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohammed28ali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed28ali&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed28ali&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 
 ---
 
-## 🛠️ Languages & Tools  
-[![My Skills](https://skillicons.dev/icons?i=kotlin,dart,flutter,unity,git,githubactions,idea,java,firebase,postman,stackoverflow,notion,xd,vscode,figma,androidstudio,sqlite)](https://skillicons.dev)
+### 🤝 Connect with Me
+
+<p align="center">
+  <a href="mailto:mohammedali200028@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 💼 Work Experience
-
-### **Flutter Developer – Innov8 Information Technology**  
-📍 *Alexandria, Egypt* — **Dec 2024 – Present**
-
-- Refactored the codebase using **Clean Architecture**, improving performance by **70%**  
-- Developed **native Android Java modules** for POS terminals  
-- Implemented CI/CD pipelines  
-- Built ERP, HR, Donation & SaaS platforms serving **1000+ users**  
-- Worked with backend teams to design scalable APIs  
-
-### **Flutter Developer – StackDeans**  
-📍 *Alexandria, Egypt* — **Oct 2023 – Nov 2024**
-
-- Delivered **5+ production apps** across various industries  
-- Reduced backend response time by **50%**, boosting retention by **25%**  
-- Integrated **Stripe, PayPal, Paymob, STC Pay**  
-- Automated releases with CodeMagic, GitHub Actions, Fastlane  
-- Implemented ML with TensorFlow Lite & ML Kit  
-
----
-
-## 🎓 Education  
-**B.Sc. Computer Science — Damietta University (2019–2023)**  
-Graduation Project: **Fiction AR** (AR + ML real-time detection + 3D overlays)
-
----
-
-## 🧠 Technical Skills  
-- **Languages:** Dart, Kotlin, Python, C++, C#  
-- **Frameworks:** Flutter  
-- **State Management:** BLoC, Provider, GetX  
-- **Databases:** Firebase, SQLite, Hive, SQL Server  
-- **Tools:** Git, Postman, Firebase, Fastlane, CI/CD, Flavors  
-- **Core Concepts:** OOP, SOLID, Clean Architecture, DI  
-
----
-
-## ⭐ Featured Projects
-
-### **Tapyo — NFC Contact Sharing App**  
-- Native NFC integration using Platform Channels  
-- Firebase Remote Config → +20% onboarding rate  
-- Published on both stores  
-
-### **Fit Bird UAE — Fitness Tracking App**  
-- Offline-first using Hive  
-- Replay BLoC for workouts  
-- **99.7% crash-free** + **90% test coverage**
-
-### **Wasil IQ — Delivery App**  
-- Real-time tracking with Maps & geofencing  
-- Offline sync with SQLite  
-- Clean Architecture + DI + repositories  
-
----
-
-## 🏆 Achievements  
-- **ECPC Competitive Programmer** (reached ECBC stage)  
-- **Top 10 Project** — Covid-19 Hunter App (Annual Business Challenge)
-
-
+<p align="center"><i>Thanks for stopping by! ⭐ Feel free to explore my repos and reach out if you'd like to collaborate.</i></p>
