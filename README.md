@@ -306,15 +306,25 @@ Arabic speech therapy and learning platform for children.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohammed28ali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohammed28ali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohammed28ali&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed28ali&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=mohammed28ali&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=mohammed28ali&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammed28ali&theme=tokyo-night&hide_border=true" />
 
 </div>
+
+<p align="center">
+  <sub>
+    Includes activity from both public repositories and private contributions where GitHub permissions allow.
+  </sub>
+</p>
 
 ---
 
