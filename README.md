@@ -1,123 +1,159 @@
-<h1 align="center">Hi there, I'm Mohammed Ali 👋</h1>
-<h3 align="center">Flutter Developer · 3 years shipping apps to 100K+ users · Alexandria, Egypt 🇪🇬</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2B5BBD&center=true&vCenter=true&width=700&lines=Flutter+%7C+Dart+%7C+Kotlin+Developer;Clean+Architecture+%2B+BLoC+at+scale;10%2B+production+apps+shipped;Currently+building+Maamourti+%F0%9F%8C%86" alt="Typing SVG" />
-</p>
+# Mohammed Ali
 
-<p align="center">
-  <a href="https://linkedin.com/in/mohammed28ali"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mohammedali200028@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Apps%20Shipped-10%2B-2B6CB0?style=flat-square" />
-  <img src="https://img.shields.io/badge/Users%20Reached-100K%2B-2B6CB0?style=flat-square" />
-</p>
+### Flutter Engineer — Clean Architecture · Scalable Mobile Systems
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1500&color=2B6CB0&center=true&vCenter=true&width=560&lines=Architecting+mobile+apps+at+scale;Clean+Architecture+%2B+BLoC;3+years+%E2%80%A2+10%2B+apps+%E2%80%A2+100K%2B+users;Alexandria%2C+Egypt" alt="Typing SVG" />
 
-### 🚀 About Me
+<br/>
 
-- 📱 Flutter Developer at **Innov8 Information Technology**, building a multi-tenant SaaS + ERP platform (HR, CRM, Inventory, Engineering, Sales) used by 5+ enterprise clients
-- 🏗️ Specialize in **Clean Architecture + BLoC**, multi-flavor builds, native Android/iOS integrations, and CI/CD automation
-- 📊 Track record of measurable impact: **70% performance gains**, **50% faster server response**, **25% higher retention**, **70% faster release cycles**
-- 🎓 B.Sc. Computer Science, Damietta University — graduation project: *Fiction AR* (AR + ML object detection)
-- 📫 Reach me at **mohammedali200028@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed28ali)
+[![Email](https://img.shields.io/badge/-Email-1B2A4A?style=flat-square&logo=gmail&logoColor=white)](mailto:mohammedali200028@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohammed28ali)
 
----
+</div>
 
-### 🛠️ Tech Stack
+<br/>
 
-**Languages & Framework**
+## Profile
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+Flutter Developer with 3 years of experience architecting and shipping production mobile software for ERP, SaaS, and consumer platforms. I focus on systems that hold up under scale — Clean Architecture, predictable state management, and native integrations that don't fight the framework.
 
-**State Management**
+Currently leading the architecture of a multi-tenant SaaS + ERP platform at **Innov8 Information Technology**, after migrating its codebase from GetX/MVC to Clean Architecture with BLoC.
 
-![BLoC](https://img.shields.io/badge/BLoC-13B9FD?style=for-the-badge)
-![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge)
-![Provider](https://img.shields.io/badge/Provider-40C4FF?style=for-the-badge)
+<br/>
 
-**Backend, Data & Cloud**
+## Impact
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+<div align="center">
 
-**ML & Native Integrations**
+| Metric | Result |
+|:--|:--:|
+| Apps shipped to production | **10+** |
+| Users reached | **100K+** |
+| Performance improvement (architecture migration) | **70%** |
+| Server response time reduction | **50%** |
+| User retention increase | **25%** |
+| Release cycle time reduction | **70%** |
 
-![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![ML Kit](https://img.shields.io/badge/Google%20ML%20Kit-4285F4?style=for-the-badge&logo=google&logoColor=white)
+</div>
 
-**Tools & DevOps**
+<br/>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Fastlane](https://img.shields.io/badge/Fastlane-00C2CB?style=for-the-badge&logo=fastlane&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+## Stack
 
----
+<div align="center">
 
-### 💼 Experience
+**Core**
+<br/>
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Flutter Developer · Innov8 Information Technology** — *Dec 2024 – Present*
-Migrated a codebase from GetX/MVC to Clean Architecture + BLoC, built multi-tenant SaaS support via Flutter Flavors, and shipped native Java POS integrations for payments and receipt printing.
+**Architecture & State**
+<br/>
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-1B2A4A?style=flat-square)
+![BLoC](https://img.shields.io/badge/BLoC-13B9FD?style=flat-square)
+![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=flat-square)
+![Provider](https://img.shields.io/badge/Provider-40C4FF?style=flat-square)
 
-**Flutter Developer · StackDeans** — *Oct 2023 – Nov 2024*
-Shipped 5+ production apps across NFC, ERP, logistics, fitness, and e-commerce; integrated the full Firebase ecosystem and payment gateways (Stripe, PayPal, Paymob, STC Pay).
+**Backend & Data**
+<br/>
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
----
+**ML & Native**
+<br/>
+![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![ML Kit](https://img.shields.io/badge/Google%20ML%20Kit-4285F4?style=flat-square&logo=google&logoColor=white)
+![Android Native](https://img.shields.io/badge/Android%20Native-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-### 📌 Featured Apps
+**Delivery**
+<br/>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-00C2CB?style=flat-square&logo=fastlane&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-| Project | Description |
-|---|---|
-| **Tapyo** | NFC-based digital business card app — BLoC + Platform Channels, contactless profile sharing, deep linking |
-| **Fit Bird** | Personalized fitness app (UAE) — adaptive training algorithm, offline-first with Hive, 99.7% crash-free |
-| **Wasil IQ** | Logistics & shipping app for Iraq — real-time tracking, geofencing, offline-first sync, supports Apple Vision Pro |
-| **Maharat Tufl** | Arabic children's speech therapy app — RTL UI, image recognition → pronunciation → sentence flow |
-| **Maamourti** *(in progress)* | Hyperlocal neighborhood directory for Alexandria — Flutter + Supabase, geo & Arabic full-text search |
+</div>
 
-### 📂 Open-Source Repos
+<br/>
 
-| Project | Description |
-|---|---|
-| **i_medicine_box** | Open-source medicine reminder app for Android & iOS, built with Flutter |
-| **Hadith-App** | Hadith reading app built with Flutter |
-| **payment_integration** | App integrated with the Paymob payment gateway |
-| **city_waste_management** | Flutter app for managing city waste collection |
-| **Fiction-AR** | Graduation project — AR + ML real-time object detection |
-| **Lab-Controller** | App to remotely control computers in a lab environment |
+## Experience
 
----
+**Flutter Developer · Innov8 Information Technology** — Dec 2024 – Present
+Leading the build-out of a multi-tenant SaaS + ERP platform spanning HR, CRM, Inventory, Engineering, and Sales. Migrated the codebase to Clean Architecture with BLoC, shipped multi-flavor builds for client isolation, and built native Android modules for POS payment processing.
 
-### 📊 GitHub Stats
+**Flutter Developer · StackDeans** — Oct 2023 – Nov 2024
+Delivered 5+ production apps across NFC, logistics, fitness, and e-commerce. Owned Firebase infrastructure end-to-end and integrated payment gateways including Stripe, PayPal, and Paymob.
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohammed28ali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohammed28ali&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mohammed28ali&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
+## Selected Work
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🤝 Connect with Me
+**Tapyo**
+NFC digital business card app. BLoC + Platform Channels for contactless profile sharing.
 
-<p align="center">
-  <a href="mailto:mohammedali200028@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/mohammed28ali">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+</td>
+<td width="50%" valign="top">
 
----
+**Fit Bird**
+Adaptive fitness app with a personalization algorithm. Offline-first, 99.7% crash-free.
 
-<p align="center"><i>Thanks for stopping by! ⭐ Feel free to explore my repos and reach out if you'd like to collaborate.</i></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Wasil IQ**
+Logistics platform for Iraq. Real-time tracking, geofencing, offline-first sync.
+
+</td>
+<td width="50%" valign="top">
+
+**Maharat Tufl**
+Arabic speech-therapy app for children. Fully RTL, image-to-speech learning flow.
+
+</td>
+</tr>
+</table>
+
+**Open Source**
+
+| Repository | Description |
+|:--|:--|
+| `i_medicine_box` | Medicine reminder app for Android & iOS |
+| `Hadith-App` | Hadith reading app |
+| `payment_integration` | Paymob payment gateway integration |
+| `city_waste_management` | City waste collection management |
+| `Fiction-AR` | AR + ML real-time object detection (graduation project) |
+| `Lab-Controller` | Remote lab computer control |
+
+<br/>
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohammed28ali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohammed28ali&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com/?user=mohammed28ali&theme=tokyonight&hide_border=true" alt="streak stats" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+*Open to collaborating on ambitious mobile products.*
+
+</div>
