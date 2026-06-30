@@ -1,118 +1,50 @@
+<div align="center">
+
 # Mohammed Ali
 
-### Senior Flutter Engineer | Enterprise Mobile Architect
+### Flutter Engineer — Clean Architecture · Scalable Mobile Systems
 
-Building scalable ERP, SaaS, fintech, logistics, and consumer mobile platforms with Flutter.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1500&color=2B6CB0&center=true&vCenter=true&width=560&lines=Architecting+mobile+apps+at+scale;Clean+Architecture+%2B+BLoC;3+years+%E2%80%A2+10%2B+apps+%E2%80%A2+100K%2B+users;Alexandria%2C+Egypt" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/mohammed28ali)
-[![Email](https://img.shields.io/badge/Email-1B2A4A?style=flat-square\&logo=gmail\&logoColor=white)](mailto:mohammedali200028@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/mohammed28ali)
+<br/>
 
----
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed28ali)
+[![Email](https://img.shields.io/badge/-Email-1B2A4A?style=flat-square&logo=gmail&logoColor=white)](mailto:mohammedali200028@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohammed28ali)
 
-## About Me
-
-Flutter Engineer with 3+ years of experience designing, architecting, and delivering production-grade mobile applications across ERP, SaaS, logistics, healthcare, fintech, education, and consumer sectors.
-
-I specialize in building scalable mobile systems using Clean Architecture, BLoC, modular design, and enterprise engineering practices. My focus is creating maintainable applications that support rapid feature delivery, long-term scalability, and measurable business impact.
-
-Currently leading architecture and mobile development efforts for a multi-tenant ERP ecosystem at Innov8 Information Technology.
+</div>
 
 ---
 
-## Impact
+# Profile
 
-| Metric                         | Achievement |
-| ------------------------------ | ----------- |
-| 🚀 Production Apps Delivered   | **10+**     |
-| 👥 Users Reached               | **100K+**   |
-| ⚡ Performance Improvement      | **70%**     |
-| 🔥 API Response Time Reduction | **50%**     |
-| 📈 User Retention Growth       | **25%**     |
-| 🚄 Release Cycle Reduction     | **70%**     |
-| 🏢 Enterprise ERP Modules      | **99+**     |
-| 🌐 White-Label Deployments     | **5**       |
+Flutter Developer with 3 years of experience architecting, building, and scaling production mobile applications across ERP, SaaS, logistics, fintech, healthcare, and consumer platforms.
+
+Specialized in Clean Architecture, scalable state management, performance optimization, and native Android integrations. Currently leading the architecture and development of a large multi-tenant ERP ecosystem at **Innov8 Information Technology**, serving multiple enterprise clients through a unified white-label platform.
 
 ---
 
-## Flagship Project
+# Impact
 
-### Innov8 ERP Ecosystem
-
-Enterprise-grade multi-tenant ERP platform serving multiple organizations through a white-label architecture.
-
-#### Business Domains
-
-* Human Resources (HR)
-* CRM & Sales
-* Inventory Management
-* Procurement
-* Engineering Operations
-* Attendance & Payroll
-* Customer Service
-
-#### Architecture Highlights
-
-* 847+ Dart files
-* 99+ feature modules
-* Multi-tenant architecture
-* White-label deployment system
-* Clean Architecture
-* BLoC state management
-* Offline-first support
-* Native Android integrations
-* CI/CD automation
-
-#### Key Contributions
-
-* Led migration from MVC/GetX to Clean Architecture + BLoC
-* Established scalable feature-first architecture standards
-* Reduced technical debt and maintenance overhead
-* Improved performance and release velocity
-* Implemented native POS payment integrations
-* Built reusable architecture patterns across modules
+| Metric | Result |
+|---------|---------|
+| 🚀 Apps Shipped to Production | **10+** |
+| 👥 Users Reached | **100K+** |
+| ⚡ Performance Improvement (Architecture Migration) | **70%** |
+| 🔥 Server Response Time Reduction | **50%** |
+| 📈 User Retention Increase | **25%** |
+| 🚄 Release Cycle Time Reduction | **70%** |
 
 ---
 
-## Engineering Leadership
-
-* Led architecture migration initiatives
-* Defined project structure and development standards
-* Conducted code reviews and technical mentorship
-* Designed reusable architecture patterns
-* Improved release and deployment workflows
-* Collaborated with product, backend, and business teams
-* Delivered scalable enterprise solutions
-
----
-
-## Technical Expertise
-
-| Area                    | Level        |
-| ----------------------- | ------------ |
-| Flutter                 | Expert       |
-| Dart                    | Expert       |
-| Clean Architecture      | Expert       |
-| BLoC                    | Expert       |
-| Mobile System Design    | Advanced     |
-| Firebase                | Advanced     |
-| Supabase                | Advanced     |
-| Android Native (Kotlin) | Advanced     |
-| PostgreSQL              | Advanced     |
-| CI/CD                   | Advanced     |
-| TensorFlow Lite         | Intermediate |
-| ML Kit                  | Intermediate |
-
----
-
-## Tech Stack
+# Tech Stack & Expertise
 
 ### Core Technologies
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square\&logo=dart\&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square\&logo=flutter\&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square\&logo=kotlin\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### Architecture & State Management
 
@@ -123,172 +55,193 @@ Enterprise-grade multi-tenant ERP platform serving multiple organizations throug
 
 ### Backend & Databases
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square\&logo=supabase\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ### Mobile AI & Native Development
 
-![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
-![Google ML Kit](https://img.shields.io/badge/Google%20ML%20Kit-4285F4?style=flat-square\&logo=google\&logoColor=white)
-![Android Native](https://img.shields.io/badge/Android%20Native-3DDC84?style=flat-square\&logo=android\&logoColor=white)
+![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Google ML Kit](https://img.shields.io/badge/Google%20ML%20Kit-4285F4?style=flat-square&logo=google&logoColor=white)
+![Android Native](https://img.shields.io/badge/Android%20Native-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 ### DevOps & Delivery
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
-![Fastlane](https://img.shields.io/badge/Fastlane-00C2CB?style=flat-square\&logo=fastlane\&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square\&logo=jira\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-00C2CB?style=flat-square&logo=fastlane&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 ---
 
-## Professional Experience
+# Professional Experience
 
-### Flutter Developer — Innov8 Information Technology
+## Flutter Developer · Innov8 Information Technology
+**Dec 2024 — Present**
 
-**Dec 2024 – Present**
+Leading the architecture and development of a large-scale multi-tenant ERP ecosystem covering:
 
-Leading architecture and development of a large-scale ERP ecosystem supporting multiple enterprise clients.
+- Human Resources (HR)
+- CRM & Sales
+- Inventory Management
+- Engineering Operations
+- Procurement & Supply Chain
 
-**Highlights**
+### Key Contributions
 
-* Architected multi-tenant ERP platform
-* Led migration to Clean Architecture + BLoC
-* Built white-label deployment infrastructure
-* Developed native Android payment integrations
-* Improved performance and maintainability
-* Delivered enterprise-grade business solutions
-
-### Flutter Developer — StackDeans
-
-**Oct 2023 – Nov 2024**
-
-Delivered production mobile applications across logistics, healthcare, fintech, fitness, and NFC-based products.
-
-**Highlights**
-
-* Delivered 5+ production applications
-* Built Firebase infrastructures
-* Integrated Stripe, PayPal, and Paymob
-* Developed NFC-powered experiences
-* Implemented offline-first architectures
+- Migrated a large production codebase from MVC/GetX to Clean Architecture + BLoC.
+- Designed scalable feature-based architecture across 99+ modules.
+- Implemented white-label infrastructure supporting multiple enterprise clients.
+- Built native Android POS payment integrations using Kotlin.
+- Improved maintainability, performance, and release velocity across the platform.
+- Led implementation of CI/CD workflows and deployment pipelines.
 
 ---
 
-## Selected Technical Projects
+## Flutter Developer · StackDeans
+**Oct 2023 — Nov 2024**
 
-### Tapyo
+Developed and delivered multiple production applications across various industries.
+
+### Key Contributions
+
+- Delivered 5+ production mobile applications.
+- Built NFC-enabled applications using Flutter Platform Channels.
+- Designed Firebase infrastructures from scratch.
+- Integrated Stripe, PayPal, and Paymob payment systems.
+- Implemented offline-first architectures and real-time synchronization.
+- Optimized application performance and stability.
+
+---
+
+# Highlighted Projects
+
+## Innov8 ERP
+
+Enterprise-grade multi-tenant ERP platform.
+
+### Highlights
+
+- 99+ feature modules
+- Clean Architecture
+- BLoC state management
+- Multi-flavor white-label architecture
+- HR, CRM, Inventory, Engineering, Procurement modules
+- Native POS integrations
+
+---
+
+## Tapyo
 
 NFC-powered digital business card platform.
 
-**Tech:** Flutter, BLoC, NFC, Platform Channels
+### Features
 
-* Contactless profile sharing
-* Native NFC integrations
-* Real-time profile updates
-
-### Wasil IQ
-
-Logistics and fleet management platform.
-
-**Tech:** Flutter, Firebase, Geolocation
-
-* Real-time tracking
-* Geofencing
-* Offline synchronization
-* Fleet management
-
-### Fit Bird
-
-Adaptive fitness platform.
-
-**Tech:** Flutter, Firebase
-
-* Personalized fitness plans
-* Offline-first architecture
-* Performance analytics
-* 99.7% crash-free stability
-
-### Maharat Tufl
-
-Arabic speech therapy platform for children.
-
-**Tech:** Flutter, Firebase
-
-* Full RTL support
-* Gamified learning
-* Interactive speech development
+- Contactless profile sharing
+- NFC integrations
+- Platform Channels
+- Dynamic profile management
+- Analytics and engagement tracking
 
 ---
 
-## Open Source
+## Wasil IQ
 
-| Repository            | Description                                  |
-| --------------------- | -------------------------------------------- |
-| i_medicine_box        | Cross-platform medicine reminder application |
-| Hadith-App            | Islamic Hadith reading application           |
-| payment_integration   | Paymob payment gateway integration           |
-| city_waste_management | Smart city waste management system           |
-| Fiction-AR            | AR + Machine Learning object detection       |
-| Lab-Controller        | Remote laboratory control platform           |
+Logistics and delivery platform serving Iraq.
 
----
+### Features
 
-## Currently Building
-
-* Enterprise ERP Ecosystem
-* Multi-Tenant SaaS Solutions
-* Scalable Flutter Architectures
-* Mobile AI Integrations
-* Native Android Payment Solutions
-* CI/CD Automation Pipelines
+- Real-time GPS tracking
+- Geofencing
+- Route optimization
+- Offline-first synchronization
+- Driver and fleet management
 
 ---
 
-## Engineering Principles
+## Fit Bird
 
-* Clean Architecture First
-* SOLID Design Principles
-* Scalability Over Short-Term Fixes
-* Business-Driven Engineering
-* Performance-Oriented Development
-* Continuous Improvement
-* Maintainable & Testable Systems
+Personalized fitness and health platform.
+
+### Features
+
+- Adaptive workout recommendations
+- Personalized fitness plans
+- Offline-first architecture
+- Performance analytics
+- 99.7% crash-free stability
 
 ---
 
-## GitHub Activity
+## Maharat Tufl
+
+Arabic speech therapy application for children.
+
+### Features
+
+- Full RTL support
+- Arabic-first experience
+- Interactive learning modules
+- Image-to-speech learning
+- Gamified educational content
+
+---
+
+# Open Source Projects
+
+| Repository | Description |
+|------------|-------------|
+| **i_medicine_box** | Cross-platform medicine reminder application |
+| **Hadith-App** | Islamic Hadith reading application |
+| **payment_integration** | Paymob payment integration package |
+| **city_waste_management** | Smart city waste collection management system |
+| **Fiction-AR** | AR + Machine Learning object detection platform |
+| **Lab-Controller** | Remote laboratory computer control system |
+
+---
+
+# Engineering Principles
+
+- Clean Architecture First
+- SOLID Design Principles
+- Maintainable Code Over Quick Fixes
+- Performance-Driven Development
+- Testable & Scalable Systems
+- Business-Oriented Engineering
+- Continuous Learning & Improvement
+
+---
+
+# GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohammed28ali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohammed28ali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohammed28ali&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohammed28ali&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=mohammed28ali&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=mohammed28ali&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## Let's Connect
+# Current Focus
 
-I'm always interested in discussing:
-
-* Enterprise Mobile Architecture
-* Flutter at Scale
-* SaaS & ERP Platforms
-* Mobile Performance Optimization
-* Engineering Leadership
-* Product Development
+- Enterprise ERP Systems
+- Scalable Flutter Architecture
+- Multi-Tenant SaaS Platforms
+- Native Android Integrations
+- Mobile AI Applications
+- CI/CD Automation
 
 ---
 
 <div align="center">
 
-### Open to Senior Flutter Engineer, Mobile Architect, and Enterprise Engineering opportunities.
+### Open to collaborating on ambitious mobile products and engineering challenges.
 
 </div>
