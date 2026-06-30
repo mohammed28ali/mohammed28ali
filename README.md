@@ -88,7 +88,6 @@ Leading the architecture and development of a large-scale multi-tenant ERP ecosy
 * Reduced server response times by 50%.
 * Designed and maintained 99+ business modules.
 * Built scalable white-label architecture serving multiple enterprise clients.
-* Developed native Android POS integrations using Kotlin.
 * Implemented CI/CD pipelines reducing release cycles by 70%.
 * Established engineering and architecture standards.
 
@@ -123,7 +122,6 @@ Enterprise-grade multi-tenant ERP ecosystem powering multiple organizations thro
 * Clean Architecture
 * BLoC State Management
 * White-Label Infrastructure
-* Native POS Integrations
 * CI/CD Deployment Pipelines
 * HR Management
 * CRM & Sales
@@ -182,6 +180,24 @@ Enterprise-grade multi-tenant ERP ecosystem powering multiple organizations thro
 </p>
 
 > **Single Codebase • Multiple Enterprise Clients • White-Label Architecture**
+
+---
+
+## Native POS Systems (Healthcare Sector)
+
+Standalone native Android POS applications built with Kotlin and deployed directly on point-of-sale terminals for healthcare institutions. These are internal, on-premise deployments and are not published on public app stores.
+
+### Deployments
+
+* Magdi Yacoub Heart Foundation
+* Al Nas Hospital
+* 25 January Hospital
+
+### Highlights
+
+* Native Kotlin POS Terminal Integration
+* On-Premise Hospital Billing Workflows
+* Internal Enterprise Deployment (not store-published)
 
 ---
 
