@@ -10,7 +10,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed28ali)
 [![Email](https://img.shields.io/badge/-Email-1B2A4A?style=flat-square&logo=gmail&logoColor=white)](mailto:mohammedali200028@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohammed28ali)
 
 </div>
 
