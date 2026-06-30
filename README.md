@@ -306,34 +306,15 @@ Arabic speech therapy and learning platform for children.
 
 <div align="center">
 
-<!-- Stats Cards -->
-<a href="https://github.com/mohammed28ali">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohammed28ali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-</a>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohammed28ali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<a href="https://github.com/mohammed28ali">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed28ali&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</a>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohammed28ali&layout=compact&theme=tokyonight&hide_border=true" />
 
-<!-- Streak Stats -->
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=mohammed28ali&theme=tokyonight&hide_border=true" />
-</a>
+<br/>
 
-<!-- Activity Graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammed28ali&theme=tokyo-night&hide_border=true&bg_color=0a0a0a&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
-</a>
+<img src="https://streak-stats.demolab.com/?user=mohammed28ali&theme=tokyonight&hide_border=true" />
 
 </div>
-
-<p align="center">
-  <sub>
-    📈 Includes activity from both public repositories and private contributions 
-    <br/>
-    (where GitHub permissions allow).
-  </sub>
-</p>
 
 ---
 
