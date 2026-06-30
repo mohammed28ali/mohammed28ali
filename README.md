@@ -22,52 +22,42 @@ Flutter Developer with 3 years of experience architecting, building, and scaling
 
 Specialized in Clean Architecture, scalable state management, performance optimization, and native Android integrations. Currently leading the architecture and development of a large multi-tenant ERP ecosystem at **Innov8 Information Technology**, serving multiple enterprise clients through a unified white-label platform.
 
----
+**Currently exploring senior / lead Flutter roles building scalable, multi-tenant products.**
 
-# Impact
+### Snapshot
 
 | Metric | Result |
 |---------|---------|
-| 🚀 Apps Shipped to Production | **10+** |
-| 👥 Users Reached | **100K+** |
-| ⚡ Performance Improvement (Architecture Migration) | **70%** |
-| 🔥 Server Response Time Reduction | **50%** |
-| 📈 User Retention Increase | **25%** |
-| 🚄 Release Cycle Time Reduction | **70%** |
+| 🚀 Apps shipped to production | **10+** |
+| 👥 Users reached across shipped apps | **100K+** |
+| ⚡ Load-time improvement after Innov8 ERP's MVC → Clean Architecture migration | **70%** |
+| 🔥 Server response time reduction (same migration) | **50%** |
+| 📈 User retention increase (Fit Bird, post-redesign) | **25%** |
+| 🚄 Release cycle time reduction (CI/CD rollout at Innov8) | **70%** |
 
 ---
 
 # Tech Stack & Expertise
 
-### Core Technologies
+### Primary Stack
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### Architecture & State Management
-
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-1B2A4A?style=flat-square)
 ![BLoC](https://img.shields.io/badge/BLoC-13B9FD?style=flat-square)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-1B2A4A?style=flat-square)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+### Also Worked With
+
 ![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=flat-square)
 ![Provider](https://img.shields.io/badge/Provider-40C4FF?style=flat-square)
-
-### Backend & Databases
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-### Mobile AI & Native Development
-
 ![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Google ML Kit](https://img.shields.io/badge/Google%20ML%20Kit-4285F4?style=flat-square&logo=google&logoColor=white)
-![Android Native](https://img.shields.io/badge/Android%20Native-3DDC84?style=flat-square&logo=android&logoColor=white)
-
-### DevOps & Delivery
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Fastlane](https://img.shields.io/badge/Fastlane-00C2CB?style=flat-square&logo=fastlane&logoColor=white)
@@ -80,22 +70,15 @@ Specialized in Clean Architecture, scalable state management, performance optimi
 ## Flutter Developer · Innov8 Information Technology
 **Dec 2024 — Present**
 
-Leading the architecture and development of a large-scale multi-tenant ERP ecosystem covering:
-
-- Human Resources (HR)
-- CRM & Sales
-- Inventory Management
-- Engineering Operations
-- Procurement & Supply Chain
+Leading the architecture and development of a large-scale multi-tenant ERP ecosystem covering HR, CRM & Sales, Inventory Management, Engineering Operations, and Procurement & Supply Chain.
 
 ### Key Contributions
 
-- Migrated a large production codebase from MVC/GetX to Clean Architecture + BLoC.
-- Designed scalable feature-based architecture across 99+ modules.
-- Implemented white-label infrastructure supporting multiple enterprise clients.
+- Migrated a large production codebase from MVC/GetX to Clean Architecture + BLoC, cutting load times by 70% and server response time by 50%.
+- Designed a scalable feature-based architecture spanning 99+ modules.
+- Implemented white-label infrastructure supporting multiple enterprise clients from a single codebase.
 - Built native Android POS payment integrations using Kotlin.
-- Improved maintainability, performance, and release velocity across the platform.
-- Led implementation of CI/CD workflows and deployment pipelines.
+- Led CI/CD pipeline implementation, cutting release cycle time by 70%.
 
 ---
 
@@ -111,80 +94,25 @@ Developed and delivered multiple production applications across various industri
 - Designed Firebase infrastructures from scratch.
 - Integrated Stripe, PayPal, and Paymob payment systems.
 - Implemented offline-first architectures and real-time synchronization.
-- Optimized application performance and stability.
 
 ---
 
 # Highlighted Projects
 
 ## Innov8 ERP
-
-Enterprise-grade multi-tenant ERP platform.
-
-### Highlights
-
-- 99+ feature modules
-- Clean Architecture
-- BLoC state management
-- Multi-flavor white-label architecture
-- HR, CRM, Inventory, Engineering, Procurement modules
-- Native POS integrations
-
----
+Enterprise-grade multi-tenant ERP platform — 99+ feature modules across HR, CRM, Inventory, Engineering, and Procurement, built on Clean Architecture + BLoC with native POS integrations and multi-flavor white-label support.
 
 ## Tapyo
-
-NFC-powered digital business card platform.
-
-### Features
-
-- Contactless profile sharing
-- NFC integrations
-- Platform Channels
-- Dynamic profile management
-- Analytics and engagement tracking
-
----
+NFC-powered digital business card platform with contactless profile sharing, Flutter Platform Channel integrations, dynamic profile management, and engagement analytics.
 
 ## Wasil IQ
-
-Logistics and delivery platform serving Iraq.
-
-### Features
-
-- Real-time GPS tracking
-- Geofencing
-- Route optimization
-- Offline-first synchronization
-- Driver and fleet management
-
----
+Logistics and delivery platform serving Iraq — real-time GPS tracking, geofencing, route optimization, and offline-first sync for drivers and fleet managers operating with inconsistent connectivity.
 
 ## Fit Bird
-
-Personalized fitness and health platform.
-
-### Features
-
-- Adaptive workout recommendations
-- Personalized fitness plans
-- Offline-first architecture
-- Performance analytics
-- 99.7% crash-free stability
-
----
+Personalized fitness and health platform with adaptive workout recommendations and an offline-first architecture. Post-redesign, user retention rose 25%, and the app maintained 99.7% crash-free sessions in production.
 
 ## Maharat Tufl
-
-Arabic speech therapy application for children.
-
-### Features
-
-- Full RTL support
-- Arabic-first experience
-- Interactive learning modules
-- Image-to-speech learning
-- Gamified educational content
+Arabic speech therapy application for children — full RTL support, an Arabic-first UX, image-to-speech learning modules, and gamified content for young learners.
 
 ---
 
@@ -201,18 +129,6 @@ Arabic speech therapy application for children.
 
 ---
 
-# Engineering Principles
-
-- Clean Architecture First
-- SOLID Design Principles
-- Maintainable Code Over Quick Fixes
-- Performance-Driven Development
-- Testable & Scalable Systems
-- Business-Oriented Engineering
-- Continuous Learning & Improvement
-
----
-
 # GitHub Activity
 
 <div align="center">
@@ -226,17 +142,6 @@ Arabic speech therapy application for children.
 <img src="https://streak-stats.demolab.com/?user=mohammed28ali&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
-
----
-
-# Current Focus
-
-- Enterprise ERP Systems
-- Scalable Flutter Architecture
-- Multi-Tenant SaaS Platforms
-- Native Android Integrations
-- Mobile AI Applications
-- CI/CD Automation
 
 ---
 
