@@ -14,146 +14,234 @@
 
 </div>
 
-<br/>
+---
 
-## Profile
+# Profile
 
-Flutter Developer with 3 years of experience architecting and shipping production mobile software for ERP, SaaS, and consumer platforms. I focus on systems that hold up under scale — Clean Architecture, predictable state management, and native integrations that don't fight the framework.
+Flutter Developer with 3 years of experience architecting, building, and scaling production mobile applications across ERP, SaaS, logistics, fintech, healthcare, and consumer platforms.
 
-Currently leading the architecture of a multi-tenant SaaS + ERP platform at **Innov8 Information Technology**, after migrating its codebase from GetX/MVC to Clean Architecture with BLoC.
+Specialized in Clean Architecture, scalable state management, performance optimization, and native Android integrations. Currently leading the architecture and development of a large multi-tenant ERP ecosystem at **Innov8 Information Technology**, serving multiple enterprise clients through a unified white-label platform.
 
-<br/>
+---
 
-## Impact
-
-<div align="center">
+# Impact
 
 | Metric | Result |
-|:--|:--:|
-| Apps shipped to production | **10+** |
-| Users reached | **100K+** |
-| Performance improvement (architecture migration) | **70%** |
-| Server response time reduction | **50%** |
-| User retention increase | **25%** |
-| Release cycle time reduction | **70%** |
+|---------|---------|
+| 🚀 Apps Shipped to Production | **10+** |
+| 👥 Users Reached | **100K+** |
+| ⚡ Performance Improvement (Architecture Migration) | **70%** |
+| 🔥 Server Response Time Reduction | **50%** |
+| 📈 User Retention Increase | **25%** |
+| 🚄 Release Cycle Time Reduction | **70%** |
 
-</div>
+---
 
-<br/>
+# Tech Stack & Expertise
 
-## Stack
+### Core Technologies
 
-<div align="center">
-
-**Core**
-<br/>
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Architecture & State**
-<br/>
+### Architecture & State Management
+
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-1B2A4A?style=flat-square)
 ![BLoC](https://img.shields.io/badge/BLoC-13B9FD?style=flat-square)
 ![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=flat-square)
 ![Provider](https://img.shields.io/badge/Provider-40C4FF?style=flat-square)
 
-**Backend & Data**
-<br/>
+### Backend & Databases
+
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-**ML & Native**
-<br/>
+### Mobile AI & Native Development
+
 ![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![ML Kit](https://img.shields.io/badge/Google%20ML%20Kit-4285F4?style=flat-square&logo=google&logoColor=white)
+![Google ML Kit](https://img.shields.io/badge/Google%20ML%20Kit-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Android Native](https://img.shields.io/badge/Android%20Native-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-**Delivery**
-<br/>
+### DevOps & Delivery
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Fastlane](https://img.shields.io/badge/Fastlane-00C2CB?style=flat-square&logo=fastlane&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-</div>
+---
 
-<br/>
+# Professional Experience
 
-## Experience
+## Flutter Developer · Innov8 Information Technology
+**Dec 2024 — Present**
 
-**Flutter Developer · Innov8 Information Technology** — Dec 2024 – Present
-Leading the build-out of a multi-tenant SaaS + ERP platform spanning HR, CRM, Inventory, Engineering, and Sales. Migrated the codebase to Clean Architecture with BLoC, shipped multi-flavor builds for client isolation, and built native Android modules for POS payment processing.
+Leading the architecture and development of a large-scale multi-tenant ERP ecosystem covering:
 
-**Flutter Developer · StackDeans** — Oct 2023 – Nov 2024
-Delivered 5+ production apps across NFC, logistics, fitness, and e-commerce. Owned Firebase infrastructure end-to-end and integrated payment gateways including Stripe, PayPal, and Paymob.
+- Human Resources (HR)
+- CRM & Sales
+- Inventory Management
+- Engineering Operations
+- Procurement & Supply Chain
 
-<br/>
+### Key Contributions
 
-## Selected Work
+- Migrated a large production codebase from MVC/GetX to Clean Architecture + BLoC.
+- Designed scalable feature-based architecture across 99+ modules.
+- Implemented white-label infrastructure supporting multiple enterprise clients.
+- Built native Android POS payment integrations using Kotlin.
+- Improved maintainability, performance, and release velocity across the platform.
+- Led implementation of CI/CD workflows and deployment pipelines.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-**Tapyo**
-NFC digital business card app. BLoC + Platform Channels for contactless profile sharing.
+## Flutter Developer · StackDeans
+**Oct 2023 — Nov 2024**
 
-</td>
-<td width="50%" valign="top">
+Developed and delivered multiple production applications across various industries.
 
-**Fit Bird**
-Adaptive fitness app with a personalization algorithm. Offline-first, 99.7% crash-free.
+### Key Contributions
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+- Delivered 5+ production mobile applications.
+- Built NFC-enabled applications using Flutter Platform Channels.
+- Designed Firebase infrastructures from scratch.
+- Integrated Stripe, PayPal, and Paymob payment systems.
+- Implemented offline-first architectures and real-time synchronization.
+- Optimized application performance and stability.
 
-**Wasil IQ**
-Logistics platform for Iraq. Real-time tracking, geofencing, offline-first sync.
+---
 
-</td>
-<td width="50%" valign="top">
+# Highlighted Projects
 
-**Maharat Tufl**
-Arabic speech-therapy app for children. Fully RTL, image-to-speech learning flow.
+## Innov8 ERP
 
-</td>
-</tr>
-</table>
+Enterprise-grade multi-tenant ERP platform.
 
-**Open Source**
+### Highlights
+
+- 99+ feature modules
+- Clean Architecture
+- BLoC state management
+- Multi-flavor white-label architecture
+- HR, CRM, Inventory, Engineering, Procurement modules
+- Native POS integrations
+
+---
+
+## Tapyo
+
+NFC-powered digital business card platform.
+
+### Features
+
+- Contactless profile sharing
+- NFC integrations
+- Platform Channels
+- Dynamic profile management
+- Analytics and engagement tracking
+
+---
+
+## Wasil IQ
+
+Logistics and delivery platform serving Iraq.
+
+### Features
+
+- Real-time GPS tracking
+- Geofencing
+- Route optimization
+- Offline-first synchronization
+- Driver and fleet management
+
+---
+
+## Fit Bird
+
+Personalized fitness and health platform.
+
+### Features
+
+- Adaptive workout recommendations
+- Personalized fitness plans
+- Offline-first architecture
+- Performance analytics
+- 99.7% crash-free stability
+
+---
+
+## Maharat Tufl
+
+Arabic speech therapy application for children.
+
+### Features
+
+- Full RTL support
+- Arabic-first experience
+- Interactive learning modules
+- Image-to-speech learning
+- Gamified educational content
+
+---
+
+# Open Source Projects
 
 | Repository | Description |
-|:--|:--|
-| `i_medicine_box` | Medicine reminder app for Android & iOS |
-| `Hadith-App` | Hadith reading app |
-| `payment_integration` | Paymob payment gateway integration |
-| `city_waste_management` | City waste collection management |
-| `Fiction-AR` | AR + ML real-time object detection (graduation project) |
-| `Lab-Controller` | Remote lab computer control |
+|------------|-------------|
+| **i_medicine_box** | Cross-platform medicine reminder application |
+| **Hadith-App** | Islamic Hadith reading application |
+| **payment_integration** | Paymob payment integration package |
+| **city_waste_management** | Smart city waste collection management system |
+| **Fiction-AR** | AR + Machine Learning object detection platform |
+| **Lab-Controller** | Remote laboratory computer control system |
 
-<br/>
+---
 
-## GitHub Activity
+# Engineering Principles
+
+- Clean Architecture First
+- SOLID Design Principles
+- Maintainable Code Over Quick Fixes
+- Performance-Driven Development
+- Testable & Scalable Systems
+- Business-Oriented Engineering
+- Continuous Learning & Improvement
+
+---
+
+# GitHub Activity
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohammed28ali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
 <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohammed28ali&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com/?user=mohammed28ali&theme=tokyonight&hide_border=true" alt="streak stats" />
-
-</div>
 
 <br/>
 
+<img src="https://streak-stats.demolab.com/?user=mohammed28ali&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+# Current Focus
+
+- Enterprise ERP Systems
+- Scalable Flutter Architecture
+- Multi-Tenant SaaS Platforms
+- Native Android Integrations
+- Mobile AI Applications
+- CI/CD Automation
+
+---
+
 <div align="center">
 
-*Open to collaborating on ambitious mobile products.*
+### Open to collaborating on ambitious mobile products and engineering challenges.
 
 </div>
