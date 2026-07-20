@@ -221,6 +221,29 @@ NFC-powered digital business card platform enabling instant profile sharing and 
 
 ---
 
+## Liverpool Muslims
+
+Community app for the Liverpool Muslim community, delivering news, events, prayer times, and inspiring stories.
+
+<p>
+<a href="https://play.google.com/store/apps/details?id=com.i40c.liverpoolmuslims" target="_blank">
+<img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-01875F?style=for-the-badge&logo=google-play&logoColor=white"/>
+</a>
+
+<a href="https://apps.apple.com/us/app/liverpool-muslims/id1299497633" target="_blank">
+<img alt="App Store" src="https://img.shields.io/badge/Download%20on-the%20App%20Store-black?style=for-the-badge&logo=app-store&logoColor=white"/>
+</a>
+</p>
+
+### Highlights
+
+* Prayer Time Notifications
+* Community News & Events
+* Location-Based Prayer Times
+* Localized Community Platform
+
+---
+
 ## Wasil IQ
 
 Large-scale logistics and delivery platform serving the Iraqi market.
