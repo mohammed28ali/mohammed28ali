@@ -4,7 +4,7 @@
 
 ### Flutter Developer • Clean Architecture • Scalable Mobile Systems
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1500&color=2B6CB0&center=true&vCenter=true&width=700&lines=Architecting+mobile+apps+at+scale;Clean+Architecture+%2B+BLoC;3%2B+Years+Experience;10%2B+Production+Applications;100K%2B+Users+Reached;Multi-Tenant+ERP+Architecture" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1500&color=2B6CB0&center=true&vCenter=true&width=700&lines=Architecting+mobile+apps+at+scale;Clean+Architecture+%2B+BLoC;3%2B+Years+Experience;15%2B+Production+Applications;100K%2B+Users+Reached;Multi-Tenant+ERP+Architecture" alt="Typing SVG" />
 
 <br/>
 
@@ -17,13 +17,13 @@
 
 # Profile
 
-Flutter Developer with 3+ years of experience architecting, building, and scaling production mobile applications across ERP, SaaS, logistics, fintech, healthcare, education, and consumer platforms.
+Flutter Engineer with 3+ years of experience designing, building, and scaling production mobile applications across ERP, SaaS, logistics, fintech, healthcare, education, nonprofit, and consumer domains.
 
-Specialized in Clean Architecture, BLoC, scalable state management, native Android integrations, performance optimization, and multi-tenant application architecture.
+Specialized in Clean Architecture, BLoC/Cubit, scalable application architecture, native Android integrations, performance optimization, CI/CD automation, and enterprise-grade mobile systems.
 
-Currently leading the architecture and development of a large-scale ERP ecosystem at **Innov8 Information Technology**, serving multiple enterprise customers through a unified white-label platform.
+Currently leading the architecture and development of a large-scale multi-tenant ERP ecosystem at Innov8 Information Technology.
 
-**Open to Senior Flutter Developer, Lead Flutter Developer, and Mobile Architect opportunities.**
+**Open to Senior Flutter Engineer, Lead Mobile Engineer, and Mobile Architect opportunities.**
 
 ---
 
@@ -31,7 +31,7 @@ Currently leading the architecture and development of a large-scale ERP ecosyste
 
 | Metric                             | Result    |
 | ---------------------------------- | --------- |
-| 🚀 Production Applications Shipped | **10+**   |
+| 🚀 Production Applications Shipped | **15+**   |
 | 🏢 Enterprise Tenants Supported    | **5+**    |
 | 👥 Users Reached                   | **100K+** |
 | ⚡ Load-Time Improvement            | **70%**   |
@@ -43,27 +43,31 @@ Currently leading the architecture and development of a large-scale ERP ecosyste
 
 # Tech Stack
 
-### Core Technologies
+### Core
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square\&logo=dart\&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square\&logo=flutter\&logoColor=white)
-![BLoC](https://img.shields.io/badge/BLoC-13B9FD?style=flat-square)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-1B2A4A?style=flat-square)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square\&logo=kotlin\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square\&logo=supabase\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+* Flutter
+* Dart
+* BLoC / Cubit
+* Clean Architecture
+* Kotlin
+* Firebase
+* Supabase
+* PostgreSQL
+* SQLite
 
 ### Additional Experience
 
-![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=flat-square)
-![Provider](https://img.shields.io/badge/Provider-40C4FF?style=flat-square)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
-![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
-![Google ML Kit](https://img.shields.io/badge/Google%20ML%20Kit-4285F4?style=flat-square\&logo=google\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
-![Fastlane](https://img.shields.io/badge/Fastlane-00C2CB?style=flat-square\&logo=fastlane\&logoColor=white)
+* GetX
+* Provider
+* TensorFlow Lite
+* Google ML Kit
+* GitHub Actions
+* Fastlane
+* REST APIs
+* Platform Channels
+* NFC Integrations
+* Push Notifications
+* Multi-Tenant Systems
 
 ---
 
@@ -73,23 +77,17 @@ Currently leading the architecture and development of a large-scale ERP ecosyste
 
 **Dec 2024 — Present**
 
-Leading the architecture and development of a large-scale multi-tenant ERP ecosystem covering:
-
-* Human Resources
-* CRM & Sales
-* Inventory Management
-* Engineering Operations
-* Procurement & Supply Chain
+Leading the architecture and development of a large-scale ERP ecosystem serving multiple organizations through a scalable white-label platform.
 
 ### Key Contributions
 
 * Migrated production systems from MVC/GetX to Clean Architecture + BLoC.
 * Reduced application load times by 70%.
-* Reduced server response times by 50%.
+* Reduced backend response times by 50%.
 * Designed and maintained 99+ business modules.
 * Built scalable white-label architecture serving multiple enterprise clients.
 * Implemented CI/CD pipelines reducing release cycles by 70%.
-* Established engineering and architecture standards.
+* Established engineering standards and architecture guidelines.
 
 ---
 
@@ -97,28 +95,28 @@ Leading the architecture and development of a large-scale multi-tenant ERP ecosy
 
 **Oct 2023 — Nov 2024**
 
-Developed and delivered production-grade applications across logistics, healthcare, fintech, fitness, and business domains.
+Built and delivered production-grade applications across logistics, healthcare, fintech, fitness, education, and nonprofit sectors.
 
 ### Key Contributions
 
 * Delivered 5+ production applications.
-* Built NFC-enabled applications using Platform Channels.
+* Built NFC-enabled solutions using Platform Channels.
 * Designed Firebase infrastructures from scratch.
-* Integrated Stripe, PayPal, and Paymob payment solutions.
+* Integrated Stripe, PayPal, and Paymob.
 * Implemented offline-first architectures.
-* Improved application performance and reliability.
+* Improved performance and application reliability.
 
 ---
 
 # Featured Production Projects
 
-## Innov8 ERP
+## Innov8 ERP Ecosystem
 
-Enterprise-grade multi-tenant ERP ecosystem powering multiple organizations through a single scalable codebase.
+Enterprise-grade multi-tenant ERP platform powering multiple organizations through a single scalable codebase.
 
-### Platform Highlights
+### Highlights
 
-* 99+ Feature Modules
+* 99+ Business Modules
 * Clean Architecture
 * BLoC State Management
 * White-Label Infrastructure
@@ -133,83 +131,51 @@ Enterprise-grade multi-tenant ERP ecosystem powering multiple organizations thro
 
 #### Moga ERP
 
-<p>
-<a href="https://play.google.com/store/apps/details?id=com.innov8.moga.erp" target="_blank">
-<img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-01875F?style=for-the-badge&logo=google-play&logoColor=white"/>
-</a>
-
-<a href="https://apps.apple.com/es/app/moga-erp/id6755377526" target="_blank">
-<img alt="App Store" src="https://img.shields.io/badge/Download%20on-the%20App%20Store-black?style=for-the-badge&logo=app-store&logoColor=white"/>
-</a>
-</p>
+* Android: https://play.google.com/store/apps/details?id=com.innov8.moga.erp
+* iOS: https://apps.apple.com/es/app/moga-erp/id6755377526
 
 #### Tabarak ERP
 
-<p>
-<a href="https://play.google.com/store/apps/details?id=com.innov8.tabark" target="_blank">
-<img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-01875F?style=for-the-badge&logo=google-play&logoColor=white"/>
-</a>
-
-<a href="https://apps.apple.com/ci/app/tabarak-erp/id6499470425" target="_blank">
-<img alt="App Store" src="https://img.shields.io/badge/Download%20on-the%20App%20Store-black?style=for-the-badge&logo=app-store&logoColor=white"/>
-</a>
-</p>
+* Android: https://play.google.com/store/apps/details?id=com.innov8.tabark
+* iOS: https://apps.apple.com/ci/app/tabarak-erp/id6499470425
 
 #### Castello Development ERP
 
-<p>
-<a href="https://play.google.com/store/apps/details?id=com.castelloERP.innov8" target="_blank">
-<img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-01875F?style=for-the-badge&logo=google-play&logoColor=white"/>
-</a>
-
-<a href="https://apps.apple.com/ci/app/castello-development-erp/id6756069283" target="_blank">
-<img alt="App Store" src="https://img.shields.io/badge/Download%20on-the%20App%20Store-black?style=for-the-badge&logo=app-store&logoColor=white"/>
-</a>
-</p>
+* Android: https://play.google.com/store/apps/details?id=com.castelloERP.innov8
+* iOS: https://apps.apple.com/ci/app/castello-development-erp/id6756069283
 
 #### Aljoud HR
 
-<p>
-<a href="https://play.google.com/store/apps/details?id=com.aljoudhr.app" target="_blank">
-<img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-01875F?style=for-the-badge&logo=google-play&logoColor=white"/>
-</a>
+* Android: https://play.google.com/store/apps/details?id=com.aljoudhr.app
+* iOS: https://apps.apple.com/eg/app/aljoud-hr/id6739845926
 
-<a href="https://apps.apple.com/eg/app/aljoud-hr/id6739845926" target="_blank">
-<img alt="App Store" src="https://img.shields.io/badge/Download%20on-the%20App%20Store-black?style=for-the-badge&logo=app-store&logoColor=white"/>
-</a>
-</p>
-
-> **Single Codebase • Multiple Enterprise Clients • White-Label Architecture**
+> Single Codebase • Multiple Enterprise Clients • White-Label Architecture
 
 ---
 
-## Native POS Systems (Healthcare Sector)
+## Liverpool Muslims
 
-Standalone native Android POS applications built with Kotlin and deployed directly on point-of-sale terminals for healthcare institutions. These are internal, on-premise deployments and are not published on public app stores.
+Community-focused Islamic platform serving the Muslim community in Liverpool through prayer services, community engagement, events, and Islamic resources.
 
-### Deployments
+### Store Links
 
-* Magdi Yacoub Heart Foundation
-* Al Nas Hospital
-* 25 January Hospital
+* Android: https://play.google.com/store/apps/details?id=com.i40c.liverpoolmuslims
+* iOS: https://apps.apple.com/us/app/liverpool-muslims/id1299497633
 
 ### Highlights
 
-* Native Kotlin POS Terminal Integration
-* On-Premise Hospital Billing Workflows
-* Internal Enterprise Deployment (not store-published)
+* Prayer Times
+* Islamic Calendar
+* Community Announcements
+* Events Management
+* Push Notifications
+* Cross-Platform Flutter Development
 
 ---
 
 ## Tapyo
 
 NFC-powered digital business card platform enabling instant profile sharing and contactless networking.
-
-<p>
-<a href="https://play.google.com/store/apps/details?id=com.app.tapyo" target="_blank">
-<img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-01875F?style=for-the-badge&logo=google-play&logoColor=white"/>
-</a>
-</p>
 
 ### Highlights
 
@@ -219,29 +185,28 @@ NFC-powered digital business card platform enabling instant profile sharing and 
 * Analytics Dashboard
 * Contactless Sharing
 
+Android:
+https://play.google.com/store/apps/details?id=com.app.tapyo
+
 ---
 
 ## Wasil IQ
 
 Large-scale logistics and delivery platform serving the Iraqi market.
 
-<p>
-<a href="https://play.google.com/store/apps/details?id=com.wasiliq" target="_blank">
-<img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-01875F?style=for-the-badge&logo=google-play&logoColor=white"/>
-</a>
-
-<a href="https://apps.apple.com/us/app/wasil-iq/id1634818732" target="_blank">
-<img alt="App Store" src="https://img.shields.io/badge/Download%20on-the%20App%20Store-black?style=for-the-badge&logo=app-store&logoColor=white"/>
-</a>
-</p>
-
 ### Highlights
 
 * GPS Tracking
-* Geofencing
 * Route Optimization
+* Geofencing
 * Fleet Management
 * Offline Synchronization
+
+Android:
+https://play.google.com/store/apps/details?id=com.wasiliq
+
+iOS:
+https://apps.apple.com/us/app/wasil-iq/id1634818732
 
 ---
 
@@ -249,20 +214,16 @@ Large-scale logistics and delivery platform serving the Iraqi market.
 
 Personalized fitness and wellness platform.
 
-<p>
-<a href="https://play.google.com/store/apps/details?id=com.fitbird.stackdeans" target="_blank">
-<img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-01875F?style=for-the-badge&logo=google-play&logoColor=white"/>
-</a>
-
-<a href="https://apps.apple.com/tr/app/fitbird-uae/id6447301757" target="_blank">
-<img alt="App Store" src="https://img.shields.io/badge/Download%20on-the%20App%20Store-black?style=for-the-badge&logo=app-store&logoColor=white"/>
-</a>
-</p>
-
 ### Results
 
 * 25% User Retention Increase
 * 99.7% Crash-Free Sessions
+
+Android:
+https://play.google.com/store/apps/details?id=com.fitbird.stackdeans
+
+iOS:
+https://apps.apple.com/tr/app/fitbird-uae/id6447301757
 
 ---
 
@@ -270,39 +231,91 @@ Personalized fitness and wellness platform.
 
 Arabic speech therapy and learning platform for children.
 
-<p>
-<a href="https://play.google.com/store/apps/details?id=com.maharattufl.maharatufl" target="_blank">
-<img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-01875F?style=for-the-badge&logo=google-play&logoColor=white"/>
-</a>
+### Highlights
 
-<a href="https://apps.apple.com/us/app/%D9%85%D9%87%D8%A7%D8%B1%D8%A9-%D8%B7%D9%81%D9%84/id6467820570" target="_blank">
-<img alt="App Store" src="https://img.shields.io/badge/Download%20on-the%20App%20Store-black?style=for-the-badge&logo=app-store&logoColor=white"/>
-</a>
-</p>
+* Arabic-First Experience
+* Full RTL Support
+* Gamified Learning
+* Speech Development Tools
+
+Android:
+https://play.google.com/store/apps/details?id=com.maharattufl.maharatufl
+
+iOS:
+https://apps.apple.com/us/app/مهارة-طفل/id6467820570
+
+---
+
+## Native POS Systems (Healthcare Sector)
+
+Standalone native Android POS applications built with Kotlin and deployed directly on point-of-sale terminals.
+
+### Deployments
+
+* Magdi Yacoub Heart Foundation
+* Al Nas Hospital
+* 25 January Hospital
 
 ### Highlights
 
-* Full RTL Support
-* Arabic-First Experience
-* Gamified Learning
-* Speech Development Tools
+* Native Kotlin Development
+* POS Terminal Integrations
+* On-Premise Healthcare Solutions
+* Billing & Payment Workflows
+* Enterprise Deployments
 
 ---
 
 # Open Source Projects
 
-| Repository            | Description                                     |
-| --------------------- | ----------------------------------------------- |
-| i_medicine_box        | Cross-platform medicine reminder application    |
-| Hadith-App            | Islamic Hadith reading application              |
-| payment_integration   | Paymob payment integration package              |
-| city_waste_management | Smart city waste collection management system   |
-| Fiction-AR            | AR & Machine Learning object detection platform |
-| Lab-Controller        | Remote laboratory computer control system       |
+| Repository            | Description                                  |
+| --------------------- | -------------------------------------------- |
+| i_medicine_box        | Cross-platform medicine reminder application |
+| Hadith-App            | Islamic Hadith reading application           |
+| payment_integration   | Paymob payment integration package           |
+| city_waste_management | Smart city waste management system           |
+| Fiction-AR            | AR & Machine Learning project                |
+| Lab-Controller        | Remote laboratory management system          |
 
 ---
 
-# GitHub Activity
+# Core Expertise
+
+### Mobile Architecture
+
+* Clean Architecture
+* Feature-Based Modular Design
+* Scalable State Management
+* Repository Pattern
+* Dependency Injection
+
+### Flutter Development
+
+* BLoC / Cubit
+* Responsive UI
+* Performance Optimization
+* Offline-First Apps
+* Multi-Tenant Applications
+
+### Native Integrations
+
+* NFC
+* POS Terminals
+* Platform Channels
+* Android SDK
+* Kotlin Development
+
+### Backend & Cloud
+
+* Firebase
+* Supabase
+* PostgreSQL
+* REST APIs
+* CI/CD Pipelines
+
+---
+
+# GitHub Stats
 
 <div align="center">
 
@@ -320,8 +333,8 @@ Arabic speech therapy and learning platform for children.
 
 <div align="center">
 
-### Open to Senior Flutter Developer, Lead Flutter Developer, and Mobile Architecture opportunities.
+### Open to Senior Flutter Engineer, Lead Mobile Engineer, and Mobile Architect Opportunities
 
-**Building scalable mobile systems used by thousands of users across multiple industries.**
+Building scalable mobile systems used by thousands of users across healthcare, ERP, logistics, fintech, education, and nonprofit sectors.
 
 </div>
