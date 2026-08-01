@@ -4,7 +4,7 @@
 
 ### Flutter Developer • Clean Architecture • Scalable Mobile Systems
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1500&color=2B6CB0&center=true&vCenter=true&width=700&lines=Architecting+mobile+apps+at+scale;Clean+Architecture+%2B+BLoC;3%2B+Years+Experience;15%2B+Production+Applications;100K%2B+Users+Reached;Multi-Tenant+ERP+Architecture" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1500&color=2B6CB0&center=true&vCenter=true&width=700&lines=Architecting+mobile+apps+at+scale;Clean+Architecture+%2B+BLoC;3%2B+Years+Experience;10%2B+Production+Applications;100K%2B+Users+Reached;Multi-Tenant+ERP+Architecture" alt="Typing SVG" />
 
 <br/>
 
@@ -31,7 +31,7 @@ Currently leading the architecture and development of a large-scale ERP ecosyste
 
 | Metric                             | Result    |
 | ---------------------------------- | --------- |
-| 🚀 Production Applications Shipped | **15+**   |
+| 🚀 Production Applications Shipped | **10+**   |
 | 🏢 Enterprise Tenants Supported    | **5+**    |
 | 👥 Users Reached                   | **100K+** |
 | ⚡ Load-Time Improvement            | **70%**   |
@@ -185,7 +185,7 @@ Enterprise-grade multi-tenant ERP ecosystem powering multiple organizations thro
 
 ## Native POS Systems (Healthcare Sector)
 
-Standalone native Android POS applications built with Kotlin and deployed directly on point-of-sale terminals for healthcare institutions. These are internal, on-premise deployments and are not published on public app stores.
+Flutter POS applications integrated with native Kotlin modules via MethodChannel, deployed directly on point-of-sale terminals for healthcare institutions. These are internal, on-premise deployments and are not published on public app stores.
 
 ### Deployments
 
@@ -195,8 +195,9 @@ Standalone native Android POS applications built with Kotlin and deployed direct
 
 ### Highlights
 
-* Native Kotlin POS Terminal Integration
+* Flutter + Native Kotlin Integration (MethodChannel)
 * On-Premise Hospital Billing Workflows
+* Native Payment Processing & Receipt Printing
 * Internal Enterprise Deployment (not store-published)
 
 ---
