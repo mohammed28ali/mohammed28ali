@@ -4,7 +4,7 @@
 
 ### Flutter Developer • Clean Architecture • Scalable Mobile Systems
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1500&color=2B6CB0&center=true&vCenter=true&width=700&lines=Architecting+mobile+apps+at+scale;Clean+Architecture+%2B+BLoC;3%2B+Years+Experience;10%2B+Production+Applications;100K%2B+Users+Reached;Multi-Tenant+ERP+Architecture" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1500&color=2B6CB0&center=true&vCenter=true&width=700&lines=Architecting+mobile+apps+at+scale;Clean+Architecture+%2B+BLoC;3%2B+Years+Experience;15%2B+Production+Applications;100K%2B+Users+Reached;Multi-Tenant+ERP+Architecture" alt="Typing SVG" />
 
 <br/>
 
@@ -31,7 +31,7 @@ Currently leading the architecture and development of a large-scale ERP ecosyste
 
 | Metric                             | Result    |
 | ---------------------------------- | --------- |
-| 🚀 Production Applications Shipped | **10+**   |
+| 🚀 Production Applications Shipped | **15+**   |
 | 🏢 Enterprise Tenants Supported    | **5+**    |
 | 👥 Users Reached                   | **100K+** |
 | ⚡ Load-Time Improvement            | **70%**   |
