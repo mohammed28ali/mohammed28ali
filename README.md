@@ -312,6 +312,90 @@ Arabic speech therapy and learning platform for children.
 
 ---
 
+## 99 Warda
+
+Online flower and gift delivery platform offering same-day and global delivery, personalized cards, and occasion reminders.
+
+<p>
+<a href="https://play.google.com/store/apps/details?id=com.xprojects.warda&hl=en_US" target="_blank">
+<img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-01875F?style=for-the-badge&logo=google-play&logoColor=white"/>
+</a>
+
+<a href="https://apps.apple.com/eg/app/99-warda/id6736362292" target="_blank">
+<img alt="App Store" src="https://img.shields.io/badge/Download%20on-the%20App%20Store-black?style=for-the-badge&logo=app-store&logoColor=white"/>
+</a>
+</p>
+
+### Highlights
+
+* Global Flower & Gift Delivery
+* Same-Day Delivery in Select Cities
+* Personalized Cards & QR-Linked Media
+* Occasion Reminders & Calendar
+
+---
+
+## ClickGo
+
+Local marketplace app connecting users with nearby businesses for browsing, ordering, and order tracking.
+
+<p>
+<a href="https://play.google.com/store/apps/details?id=com.clickgo.app" target="_blank">
+<img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-01875F?style=for-the-badge&logo=google-play&logoColor=white"/>
+</a>
+</p>
+
+### Highlights
+
+* Local Business Discovery
+* Real-Time Order Tracking
+* Location-Based Services
+* Simple, Intuitive Checkout
+
+---
+
+## Simy
+
+Travel connectivity app providing eSIM data plans for staying online across 240+ international destinations.
+
+<p>
+<a href="https://play.google.com/store/apps/details?id=com.xprojects.simy&hl=en_US" target="_blank">
+<img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-01875F?style=for-the-badge&logo=google-play&logoColor=white"/>
+</a>
+</p>
+
+### Highlights
+
+* eSIM Provisioning
+* 240+ International Destinations
+* Flexible Data Plans
+* Seamless Travel Connectivity
+
+---
+
+## PetsEgypt *(Freelance)*
+
+E-commerce app for Egypt's leading online pet shop, offering pet food, toys, and accessories with delivery across Egypt.
+
+<p>
+<a href="https://play.google.com/store/apps/details?id=com.petsegypt.android&hl=en_US" target="_blank">
+<img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-01875F?style=for-the-badge&logo=google-play&logoColor=white"/>
+</a>
+
+<a href="https://apps.apple.com/us/app/petsegypt/id1453965560" target="_blank">
+<img alt="App Store" src="https://img.shields.io/badge/Download%20on-the%20App%20Store-black?style=for-the-badge&logo=app-store&logoColor=white"/>
+</a>
+</p>
+
+### Highlights
+
+* Pet Food & Accessories Catalog
+* Nationwide Delivery Across Egypt
+* Freelance Client Engagement
+* E-Commerce Checkout Flow
+
+---
+
 # Open Source Projects
 
 | Repository            | Description                                     |
