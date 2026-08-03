@@ -2,7 +2,7 @@
 
 # Mohammed Ali
 
-### Flutter Developer • Clean Architecture • Scalable Mobile Systems
+### Flutter Developer • Mobile Software Engineer
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1500&color=2B6CB0&center=true&vCenter=true&width=700&lines=Architecting+mobile+apps+at+scale;Clean+Architecture+%2B+BLoC;3%2B+Years+Experience;10%2B+Production+Applications;100K%2B+Users+Reached;Multi-Tenant+ERP+Architecture" alt="Typing SVG" />
 
