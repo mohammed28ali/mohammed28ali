@@ -178,6 +178,18 @@ Enterprise-grade multi-tenant ERP ecosystem powering multiple organizations thro
 </a>
 </p>
 
+#### Al-Kayan ERP
+
+<p>
+<a href="https://play.google.com/store/apps/details?id=com.innov8.alkayan.app" target="_blank">
+<img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-01875F?style=for-the-badge&logo=google-play&logoColor=white"/>
+</a>
+
+<a href="https://apps.apple.com/ci/app/al-kayan-erp/id6798183237" target="_blank">
+<img alt="App Store" src="https://img.shields.io/badge/Download%20on-the%20App%20Store-black?style=for-the-badge&logo=app-store&logoColor=white"/>
+</a>
+</p>
+
 > **Single Codebase • Multiple Enterprise Clients • White-Label Architecture**
 
 ---
